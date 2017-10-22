@@ -32,6 +32,8 @@
 
 * `position` - позиция в строке
 
+<!---->
+
     string a = "array";
     cout << a.at(0); // a
 
